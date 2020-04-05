@@ -15,8 +15,6 @@ Chosen Questions
 
 6. is this project linked to any other project?
 7. what were the common problems and issues faced by the employees,customers and the company in the current system?
-
-
 8. how are the vehicle records being managed ?
 9. what are the acceptance criteria for this project?
 10.what are the project's goals, what are the improvements that you are expecting from the new system - how will it improve the companies operations?
