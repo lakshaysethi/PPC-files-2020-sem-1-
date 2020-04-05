@@ -1,0 +1,61 @@
+1. What is the budget of this project?
+
+2. What is the timeframe?(In how many months will the project be completed)
+
+3. Staff of the ACR company might need training on the new system, how many staff need it?
+
+4 What types of hardware will be needed for the new project?
+
+5. Is there a recommended software to create/code the website?
+
+
+
+
+Chosen Questions
+
+6. is this project linked to any other project?
+7. what were the common problems and issues faced by the employees,customers and the company in the current system?
+
+
+8. how are the vehicle records being managed ?
+9. what are the acceptance criteria for this project?
+10.what are the project's goals, what are the improvements that you are expecting from the new system - how will it improve the companies operations?
+11. can you please give us a background of the employees working at the company and how many employes are there ? 
+12. can you please prioritize the functionalities that you want to be implimented first out of the following: managing vehicle bookings, vehicle pickups and Returns, cancellations of bookings, changes to bookings, billings and payments?
+13. how do staff keep track of their time schedule? do you want the new system to manage employees timesheets and rostering
+14. do you need all the previous transactions and bookings data to be available in the new we portal 
+
+
+
+
+
+
+
+runner up:
+15. what is the  procedures/ process for creating and canceling bookings in the current system
+
+
+
+
+21. can you give some more information about how the company operates in the current system like managing bookings?
+
+NO:
+
+
+22. is there is cancelation policiy in place ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. how can the customer manage bookings in the current system
